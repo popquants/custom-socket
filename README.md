@@ -5,8 +5,8 @@ Python custom socket with MT5
   go to 'Tools' > 'Options' > 'Expert Advisor' tab
   Tick 'Allow WebRequest for listed URL:'
     add your Localhost
-
-    ![mt5_setting](https://github.com/popquants/custom-socket/assets/25944798/2194c571-15e8-4dc0-9d3d-1be9e89be0e1)
+    
+![mt5_setting](https://github.com/popquants/custom-socket/assets/25944798/09df8df6-ec0f-4e29-9e91-d8ecbcc3b9c9)
 
 2nd, Deploy 'socket_client.mq5' on Meta Editor
 3rd, Run 'socket_server.py'
